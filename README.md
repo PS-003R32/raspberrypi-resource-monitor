@@ -4,9 +4,9 @@ I have used a Raspberry Pi Zero 2W and an ssd1306 OLED module for display.
 ---
 ##  Circuit Pin Diagram
 
-Connect your OLED to the pico as follows:
+Connect your OLED to the zero as follows:
 
-| Raspberry Pi Pico WH         | SSD1306 OLED       |
+| Raspberry Pi Zero 2W         | SSD1306 OLED       |
 |------------------------------|--------------------|
 | VBUS (Pin 2) or 3V3 (Pin 1)  | VCC                |
 | GND (Pin 9) or Pin 6         | GND                |
