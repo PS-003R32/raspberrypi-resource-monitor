@@ -21,7 +21,7 @@ Connect your OLED to the zero as follows:
 ---
 
 # My YouTube tutorial
-(Tutorial Link)[https://youtu.be/-3GgHCfQUcw?si=b1__bHEdNQz3Efx9]
+[Tutorial Link](https://youtu.be/-3GgHCfQUcw?si=b1__bHEdNQz3Efx9)
 
 ---
 ## Snapshots
