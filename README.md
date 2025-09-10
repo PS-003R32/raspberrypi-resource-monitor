@@ -19,6 +19,11 @@ Connect your OLED to the zero as follows:
 - Now download and run the python script in the repository `python3 monitor.py`.
 
 ---
+
+# My YouTube tutorial
+(Tutorial Link)[https://youtu.be/-3GgHCfQUcw?si=b1__bHEdNQz3Efx9]
+
+---
 ## Snapshots
 
 https://github.com/user-attachments/assets/fb71c1d5-946b-44db-97c0-cfc8a31eed9b
